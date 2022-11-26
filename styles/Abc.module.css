@@ -1,0 +1,62 @@
+.container {
+    background-color: skyblue;
+    padding: 50px;
+    height: 100vh;
+}
+.row {
+    border-radius: 10px;
+    padding: 30px;
+    background-color: whitesmoke;
+    width: 50%;
+}
+.inB {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+}
+.input {
+    border-color: blueviolet;
+    padding: 13px;
+    width: 400px;
+    border-radius: 5px;
+}
+.para {
+    width: 375px;
+    padding: 13px;
+    background-color: white;
+    color: black;
+    width: 445px;
+    border-radius: 5px;
+}
+.para1 {
+    width: 375px;
+    padding: 13px;
+    background-color: blueviolet;
+    color: black;
+    width: 445px;
+    border-radius: 5px;
+}
+.btn1 {
+    background-color: lightgrey;
+    border-radius: 50px;
+    border: none;
+    padding: 6px;
+}
+.btn2 {
+    background-color: lightgrey;
+    border-radius: 50px;
+    border: none;
+    padding: 6px;
+}
+.btn3 {
+    background-color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 6px; 
+}
+.f1 {
+    display: flex;
+    justify-content: space-between;
+}
